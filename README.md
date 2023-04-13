@@ -66,16 +66,6 @@
   
 <br>
 <br>
-  <br>
-  
-## <b> Github Stats </b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  width="35">
-
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafetTanriverdi&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafetTanriverdi&layout=compact)](https://github.com/RafetTanriverdi/github-readme-stats) |
-| --- | --- |
-
-
-<br>
-
 
 -----
 
