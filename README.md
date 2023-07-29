@@ -4,15 +4,6 @@
 
 <h1 align='center'>Hi everyone 👋  </h1>
 
-  <p  align="center">
-
-<img  width="200" justify="center"  border-radius= "50%" src="https://media.licdn.com/dms/image/D4D03AQEBn3Wp5kyejg/profile-displayphoto-shrink_400_400/0/1666717270329?e=1685577600&v=beta&t=-7iWSlCshnYMW5t0cQw1ffP57njs565k1OwYc8xGaw4">
-
-</p>
-  
-
-
-[![Github](https://img.shields.io/github/followers/RafetTanriverdi?label=Follow&style=social)](https://github.com/RafetTanriverdi)
 
   
 
@@ -26,9 +17,6 @@
 
   
 
-<picture> <img  align="right"  src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif"  width = 350px> </picture>
-
-  
 
 - 🔭 I'm currently working on ReactJs
 - 🌱 I'm currently learning Redux and NextJs
