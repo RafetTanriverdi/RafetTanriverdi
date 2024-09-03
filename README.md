@@ -1,60 +1,66 @@
 
+# Rafet Tanrıverdi
 
-  
+## 👋 Hello, I'm Rafet
 
-<h1 align='center'>Hi everyone 👋  </h1>
+I am a passionate Front-End Developer specializing in ReactJS, with a strong background in Node.js, Next.js, and AWS. My focus is on building scalable and efficient web applications using modern technologies. I am always eager to collaborate on challenging projects that allow me to leverage my skills and continue learning.
 
+### About Me
 
-  
+- 🚀 **Current Focus:**  
+  - Developing robust applications using **ReactJS** and **Next.js**.
+  - Backend development with **Node.js**, focusing on RESTful API architecture.
+  - Building serverless applications using **AWS** technologies such as **Lambda**, **Cognito**, and **DynamoDB**.
 
-<div  size='20px'> My name is Rafet, I am 25 years old. I am React Js and Front End Developer. Contact to develop a ReactJs project together
+- 🛠 **Core Skills:**  
+  - **Full-Stack Development:** Proficient in both front-end and back-end development, with experience in REST API creation using Node.js.
+  - **State Management:** Expertise in managing complex application state using **Redux**, **React Query**, and **Zustand**.
+  - **Cloud & DevOps:** Experienced in deploying and managing serverless applications on AWS, utilizing services like API Gateway and DynamoDB.
+  - **Authentication & Authorization:** In-depth knowledge of implementing secure authentication and authorization mechanisms in web applications.
 
-</div>
+- 💼 **Notable Projects:**  
+  - **Dashboard Application:**  
+    Developed a comprehensive dashboard integrated with **Stripe** for payment processing and **AWS Cognito** for user management. The dashboard supports role-based access control, allowing users with specific permissions to be added or removed. This tool serves as a product management and sales evaluation platform for an e-commerce site. I built the entire backend using a REST API deployed on AWS with a serverless architecture.
+  - **E-Commerce Platform:**  
+    Led the development of an e-commerce site using **Next.js**, implementing state management with **Redux** and **React Query**. Integrated a complete purchase system with **Stripe**, enabling order management, cancellation requests, and address handling. The site is backed by a serverless API that interacts with **DynamoDB** tables for product data management.
 
-  
+- 🌱 **Continuous Learning:**  
+  - Actively exploring new advancements in web development and cloud computing to stay ahead in the industry.
+  - Open to collaboration on cutting-edge projects, particularly those involving modern JavaScript frameworks and cloud-native technologies.
 
-<h2> About Me  <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"  width = 50px></picture></h2>
+- 🎯 **Career Goals:**  
+  - To lead and contribute to innovative projects that push the boundaries of what's possible with web technologies.
+  - To continue expanding my expertise in full-stack development and cloud architecture.
 
-  
+### Technical Skills
 
+![React](https://img.shields.io/badge/ReactJS-%2300D9FF.svg?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-%237A1FA2.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%231E1E1E.svg?style=for-the-badge&logo=zustand&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-%2300D9FF.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-%2300D9FF.svg?style=for-the-badge&logo=serverless&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%2300D9FF.svg?style=for-the-badge&logo=restapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)
+![CASL](https://img.shields.io/badge/CASL-%23121212.svg?style=for-the-badge&logo=casl&logoColor=white)
 
-- 🔭 I'm currently working on ReactJs
-- 🌱 I'm currently learning Redux and NextJs
-- 👯 I'm looking to collaborate on a ReactJs Project
-- 💬 Ask me about  ReactJs and Javascript Projects
-- 📫 How to reach me: You can reach me from the contact section.
-- 😄 Pronouns: Fun, Curious, Teammate
+### Get in Touch
 
+Feel free to connect with me on the following platforms:
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="40px" height="40px"></a>
-<a href="https://redux.js.org/" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="40px" height="40px"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px"></a>
-<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40px" height="40px"></a>
-<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40px" height="40px"></a>
-<a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="40px" height="40px"></a>
-<a href="https://ant.design/" title="Ant Design"><img src="https://github.com/get-icon/geticon/raw/master/icons/ant-design.svg" alt="Ant Design" width="40px" height="40px"></a>
-<a href="https://material-ui.com/" title="Material UI"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="40px" height="40px"></a>
-<a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="40px" height="40px"></a>
-<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="40px" height="40px"></a>
-<a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40px" height="40px"></a>
-<a href="https://wordpress.com/" title="Wordpress"><img src="https://skillicons.dev/icons?i=wordpress" alt="Wordpress" width="40px" height="40px"></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="40px" height="40px"></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"></a>
-
-
-
-<h2> Contact <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href="https://www.linkedin.com/in/rafet-tanriverdi/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40px" height="40px"></a>
-<a href="https://github.com/RafetTanriverdi" title="github"><img src="https://skillicons.dev/icons?i=github" alt="github" width="40px" height="40px"></a>
-<a href="https://discordapp.com/users/Rafet.Tanriverdi#0701" title="discord"><img src="https://skillicons.dev/icons?i=discord" alt="discord" width="40px" height="40px"></a>
-<a href="https://twitter.com/rtengriverdi" title="twitter"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter" width="40px" height="40px"></a>
-<a href="https://www.instagram.com/rafet.tanrverdi/?next=%2F" title="instagram"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram" width="40px" height="40px"></a>
-<a href="https://rafettanriverdi.com/" title="website"><img src="https://cdn-icons-png.flaticon.com/512/10254/10254229.png" alt="website" width="40px" height="40px"></a>
-  
-<br>
-<br>
-
------
-
-Last Edited on: 01/04/2023
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafet-tanriverdi/) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafetTanriverdi) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rtengriverdi) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafet.tanrverdi/) 
+[![Website](https://img.shields.io/badge/Website-%230077B5.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rafettanriverdi.com)
